@@ -4,13 +4,13 @@
 ## Project Overview
 This project accelerates the extraction of audio features like Mel-frequency cepstral coefficients (MFCCs) using CUDA. The goal is to perform real-time feature extraction from live audio streams, enabling speech-to-text systems to process audio in real-time. This implementation leverages the parallel processing power of CUDA to significantly improve performance compared to traditional CPU-based methods.
 
-## Demo Link: https://youtu.be/xioLZvnm0xY
-
 ### Key Features:
 - Real-time audio capture from a microphone.
 - CUDA-accelerated extraction of MFCCs from audio data.
 - Efficient pipeline for real-time speech recognition.
-  
+
+## Demo Link: https://youtu.be/xioLZvnm0xY
+
 ## CUDA Implementation:
 The CUDA-based MFCC feature extraction is implemented using a C++ code, which is compiled into a shared library (`libmfcc.dll`):
 
