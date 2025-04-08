@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CUDA Projects\\Real-time Audio Feature Extraction with CUDA for Speech Recognition\\Visual Studio\\mfcc_cuda\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D3120734-0883-4EA8-8400-871D1AE0FB40}|mfcc_cuda.vcxproj|D:\\CUDA Projects\\Real-time Audio Feature Extraction with CUDA for Speech Recognition\\Visual Studio\\mfcc_cuda\\kernel.cu||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{D3120734-0883-4EA8-8400-871D1AE0FB40}|mfcc_cuda.vcxproj|solutionrelative:kernel.cu||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 375,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "kernel.cu",
+              "DocumentMoniker": "D:\\CUDA Projects\\Real-time Audio Feature Extraction with CUDA for Speech Recognition\\Visual Studio\\mfcc_cuda\\kernel.cu",
+              "RelativeDocumentMoniker": "kernel.cu",
+              "ToolTip": "D:\\CUDA Projects\\Real-time Audio Feature Extraction with CUDA for Speech Recognition\\Visual Studio\\mfcc_cuda\\kernel.cu",
+              "RelativeToolTip": "kernel.cu",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-04-08T06:35:41.15Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

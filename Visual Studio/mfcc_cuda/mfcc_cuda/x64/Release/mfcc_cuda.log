@@ -1,0 +1,8 @@
+﻿  Compiling CUDA source file kernel.cu...
+  
+  D:\CUDA Projects\Real-time Audio Feature Extraction with CUDA for Speech Recognition\Visual Studio\mfcc_cuda>"C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v12.4\bin\nvcc.exe" -gencode=arch=compute_52,code=\"sm_52,compute_52\" --use-local-env -ccbin "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.40.33807\bin\HostX64\x64" -x cu   -I"C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v12.4\include" -I"C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v12.4\include"     --keep-dir mfcc_cuda\x64\Release  -maxrregcount=0   --machine 64 --compile -cudart static    -DWIN32 -DWIN64 -DNDEBUG -D_CONSOLE -D_WINDLL -D_MBCS -Xcompiler "/EHsc /W3 /nologo /O2 /FS   /MD " -Xcompiler "/Fdmfcc_cuda\x64\Release\vc143.pdb" -o "D:\CUDA Projects\Real-time Audio Feature Extraction with CUDA for Speech Recognition\Visual Studio\mfcc_cuda\mfcc_cuda\x64\Release\kernel.cu.obj" "D:\CUDA Projects\Real-time Audio Feature Extraction with CUDA for Speech Recognition\Visual Studio\mfcc_cuda\kernel.cu" 
+  kernel.cu
+  tmpxft_00007ed8_00000000-7_kernel.cudafe1.cpp
+     Creating library D:\CUDA Projects\Real-time Audio Feature Extraction with CUDA for Speech Recognition\Visual Studio\mfcc_cuda\x64\Release\libmfcc.lib and object D:\CUDA Projects\Real-time Audio Feature Extraction with CUDA for Speech Recognition\Visual Studio\mfcc_cuda\x64\Release\libmfcc.exp
+  LINK : /LTCG specified but no code generation required; remove /LTCG from the link command line to improve linker performance
+  mfcc_cuda.vcxproj -> D:\CUDA Projects\Real-time Audio Feature Extraction with CUDA for Speech Recognition\Visual Studio\mfcc_cuda\x64\Release\libmfcc.dll
